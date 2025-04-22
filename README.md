@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **building a pointNet**
 
-- 💬 Ask me about **Python, Streamlit, Machine Learning, Deep Learning, Computer Vision,**
+- 💬 Ask me about **Python, Streamlit, Machine Learning, Deep Learning, Computer Vision**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
